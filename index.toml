@@ -13058,7 +13058,7 @@ hash = "470a317f9bf2ab15231b954372b368b189a8834013023ea6f48c15b23084eb26"
 
 [[files]]
 file = "config/the_vault/vault_diffuser.json"
-hash = "6852f29f4428715ce1d2e4eb2b347b50a724077d11cdb1c5589103c1c333adff"
+hash = "fce13b9648538492b5b8d73699e375a2e00feb3ef0dfa7a53e1d068b9e9b78af"
 
 [[files]]
 file = "config/the_vault/vault_entities.json"
