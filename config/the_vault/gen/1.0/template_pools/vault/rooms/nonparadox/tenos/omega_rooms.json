@@ -1,0 +1,50 @@
+[
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/vendor"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/cube"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/digsite2"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/painting"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/mine"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/blacksmith"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/cove"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/mush_room"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/library"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/arcade"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/iskallian_garden"
+  },
+  {
+    "weight": 10,
+    "reference": "the_vault:vault/rooms/nonparadox/tenos/omega/the_common_room"
+  }
+]

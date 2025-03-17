@@ -1,0 +1,13 @@
+name = "VPServerTest"
+author = "Dog"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2532a26d49d35070b2b035de275a12743fd2eec3361d77953db732ce42d4e58e"
+
+[versions]
+forge = "40.2.21"
+minecraft = "1.18.2"

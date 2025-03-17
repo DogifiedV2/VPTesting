@@ -1,0 +1,30 @@
+{
+  "tile_processors": [
+    {
+      "type": "weighted_target",
+      "target": "minecraft:yellow_concrete_powder",
+      "output": {
+        "the_vault:placeholder[type=wooden_chest]": 1,
+        "minecraft:yellow_concrete_powder": 250
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:sand",
+      "output": {
+        "the_vault:treasure_sand{LootTable:\"the_vault:digsite_sand_lvl0\"}": 50,
+        "minecraft:sand": 100
+      }
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/room_base"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/challenge_elite_spawners"
+    }
+  ],
+  "entity_processors": [],
+  "decorators": []
+}
