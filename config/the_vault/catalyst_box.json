@@ -3,7 +3,7 @@
     {
       "value": {
         "id": "the_vault:vault_catalyst_infused",
-        "nbt": "{model:8,modifiers:[\"the_vault:plentiful\",\"the_vault:challenge_stack\",\"the_vault:random_negative\"],pool:\"the_vault:catalyst_box\",size:10}",
+        "nbt": "{model:8,modifiers:[\"the_vault:plentiful\",\"the_vault:challenge_stack\",\"the_vault:random_negative\"],pool:\"the_vault:catalyst_box\",size:11}",
         "amountMin": 1,
         "amountMax": 1
       },
@@ -21,7 +21,7 @@
     {
       "value": {
         "id": "the_vault:vault_catalyst_infused",
-        "nbt": "{model:6,modifiers:[\"the_vault:extended\",\"the_vault:challenge_stack\",\"the_vault:random_negative\"],pool:\"the_vault:catalyst_box\",size:10}",
+        "nbt": "{model:6,modifiers:[\"the_vault:extended\",\"the_vault:challenge_stack\",\"the_vault:random_negative\"],pool:\"the_vault:catalyst_box\",size:11}",
         "amountMin": 1,
         "amountMax": 1
       },
