@@ -13589,10 +13589,6 @@ file = "mods/VaultLootBeams-1.0.0-beta6.jar"
 hash = "e9ee20db68c3941268211daa6292431f7cdb5c3bd7615217bcfd28443c418a33"
 
 [[files]]
-file = "mods/VaultersParadiseServer-2.0.0-all.jar"
-hash = "0dbb0a41738435832b6097dce289701d98f56183dcf9dfe1ee65a20d32efc50f"
-
-[[files]]
 file = "mods/Waddles-1.18.2-0.8.19.jar"
 hash = "e2df75ba9fca97bb419558e085e521e7a599e378cf0715b19e2eaa49f06b21d5"
 
