@@ -50,26 +50,6 @@
       "color1": "0xFFffc600",
       "color2": "0xFFa8150a"
     },
-    "eccentric_focus": {
-      "type": "floating_item_reward",
-      "textColor": "0xFFffb400",
-      "item": {
-        "id": "woldsvaults:eccentric_focus",
-        "count": 1
-      },
-      "color1": "0xFFffc600",
-      "color2": "0xFFa8150a"
-    },
-    "eccentric_focus_big": {
-      "type": "floating_item_reward",
-      "textColor": "0xFFffb400",
-      "item": {
-        "id": "woldsvaults:eccentric_focus",
-        "count": 2
-      },
-      "color1": "0xFFffc600",
-      "color2": "0xFFa8150a"
-    },
     "cryonic_focus": {
       "type": "floating_item_reward",
       "textColor": "0xFFffb400",
@@ -642,18 +622,6 @@
       "item": {
         "id": "the_vault:jewel",
         "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:eternal_stella\",\"the_vault:gear_roll_type\":\"Unique\"}",
-        "count": 1
-      },
-      "color1": "0xFFED7B24",
-      "color2": "0xFFe2a631"
-    },
-    "wicked_witch": {
-      "type": "floating_item_reward",
-      "textColor": -1213660,
-      "name": "Wicked Witch Plushie",
-      "item": {
-        "id": "the_vault:plushie",
-        "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:wicked_witch\",\"the_vault:gear_roll_type\":\"Unique\"}",
         "count": 1
       },
       "color1": "0xFFED7B24",
