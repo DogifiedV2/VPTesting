@@ -16,7 +16,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 70, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 30, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 50, tag: {EntityTag:{id:\"minecraft:vindicator\"}}}, {id: \"ispawner:spawn_egg\", Count: 30, tag: {EntityTag:{id:\"the_vault:vault_spider\"}}}, {id: \"ispawner:spawn_egg\", Count: 16, tag: {EntityTag:{id:\"the_vault:vault_fighter\"}}}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
                     }
                 },
                 {
@@ -24,7 +24,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 70, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 30, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 50, tag: {EntityTag:{id:\"minecraft:vindicator\"}}}, {id: \"ispawner:spawn_egg\", Count: 30, tag: {EntityTag:{id:\"the_vault:vault_spider\"}}}, {id: \"ispawner:spawn_egg\", Count: 16, tag: {EntityTag:{id:\"the_vault:vault_fighter\"}}}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
                     }
                 },
                 {
@@ -32,7 +32,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 70, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 30, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 50, tag: {EntityTag:{id:\"minecraft:vindicator\"}}}, {id: \"ispawner:spawn_egg\", Count: 26, tag: {EntityTag:{id:\"the_vault:vault_spider\"}}}, {id: \"ispawner:spawn_egg\", Count: 16, tag: {EntityTag:{id:\"the_vault:vault_fighter\"}}}, {id: \"ispawner:spawn_egg\", Count: 4, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 4, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
                     }
                 },
                 {
@@ -40,7 +40,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 70, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 30, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 46, tag: {EntityTag:{id:\"minecraft:vindicator\"}}}, {id: \"ispawner:spawn_egg\", Count: 26, tag: {EntityTag:{id:\"the_vault:vault_spider\"}}}, {id: \"ispawner:spawn_egg\", Count: 16, tag: {EntityTag:{id:\"the_vault:vault_fighter\"}}}, {id: \"ispawner:spawn_egg\", Count: 6, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 6, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
                     }
                 },
                 {
@@ -48,7 +48,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 70, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 30, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 42, tag: {EntityTag:{id:\"minecraft:vindicator\"}}}, {id: \"ispawner:spawn_egg\", Count: 26, tag: {EntityTag:{id:\"the_vault:vault_spider\"}}}, {id: \"ispawner:spawn_egg\", Count: 16, tag: {EntityTag:{id:\"the_vault:vault_fighter\"}}}, {id: \"ispawner:spawn_egg\", Count: 8, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 8, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
                     }
                 },
                 {
@@ -56,7 +56,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 70, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 30, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 42, tag: {EntityTag:{id:\"minecraft:vindicator\"}}}, {id: \"ispawner:spawn_egg\", Count: 26, tag: {EntityTag:{id:\"the_vault:vault_spider\"}}}, {id: \"ispawner:spawn_egg\", Count: 16, tag: {EntityTag:{id:\"the_vault:vault_fighter\"}}}, {id: \"ispawner:spawn_egg\", Count: 8, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 8, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
                     }
                 },
                 {
@@ -64,7 +64,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 70, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 30, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 42, tag: {EntityTag:{id:\"minecraft:vindicator\"}}}, {id: \"ispawner:spawn_egg\", Count: 26, tag: {EntityTag:{id:\"the_vault:vault_spider\"}}}, {id: \"ispawner:spawn_egg\", Count: 16, tag: {EntityTag:{id:\"the_vault:vault_fighter\"}}}, {id: \"ispawner:spawn_egg\", Count: 8, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 8, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
                     }
                 },
                 {
@@ -72,7 +72,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 70, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 30, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 42, tag: {EntityTag:{id:\"minecraft:vindicator\"}}}, {id: \"ispawner:spawn_egg\", Count: 26, tag: {EntityTag:{id:\"the_vault:vault_spider\"}}}, {id: \"ispawner:spawn_egg\", Count: 16, tag: {EntityTag:{id:\"the_vault:vault_fighter\"}}}, {id: \"ispawner:spawn_egg\", Count: 8, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 8, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
                     }
                 },
                 {
@@ -80,7 +80,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 70, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 30, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ispawner:spawn_egg\", Count: 42, tag: {EntityTag:{id:\"minecraft:vindicator\"}}}, {id: \"ispawner:spawn_egg\", Count: 26, tag: {EntityTag:{id:\"the_vault:vault_spider\"}}}, {id: \"ispawner:spawn_egg\", Count: 16, tag: {EntityTag:{id:\"the_vault:vault_fighter\"}}}, {id: \"ispawner:spawn_egg\", Count: 8, tag: {EntityTag:{id:\"the_vault:bruiser_guardian\"}}}, {id: \"ispawner:spawn_egg\", Count: 8, tag: {EntityTag:{id:\"the_vault:arbalist_guardian\"}}} ] } }": 1
                     }
                 },
                 {

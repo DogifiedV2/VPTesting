@@ -12766,47 +12766,7 @@
         "color": "#FFEB07"
       },
       {
-        "text": " to not apply a challenge stack modifier.\n\n1 "
-      },
-      {
-        "text": "15%",
-        "color": "#FFEB07"
-      },
-      {
-        "text": "\n2 "
-      },
-      {
-        "text": "30%",
-        "color": "#FFEB07"
-      },
-      {
-        "text": "\n3 "
-      },
-      {
-        "text": "45%",
-        "color": "#FFEB07"
-      },
-      {
-        "text": "\n4 "
-      },
-      {
-        "text": "60%",
-        "color": "#FFEB07"
-      },
-      {
-        "text": "\n\nMore coming soon.."
-      }
-    ],
-    "Purifier": [
-      {
-        "text": "When applying a normal catalyst to a crystal, there is a "
-      },
-      {
-        "text": "chance",
-        "color": "#FFEB07"
-      },
-      {
-        "text": " to not apply a random negative modifier.\n\n1 "
+        "text": " to not apply a negative modifier.\n\n1 "
       },
       {
         "text": "15%",
@@ -15281,7 +15241,7 @@
         "text": "\n4 "
       },
       {
-        "text": "+340%",
+        "text": "+40%",
         "color": "#B2F44B"
       },
       {

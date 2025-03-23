@@ -1,5 +1,7 @@
 {
   "ITEM_BLACKLIST": [
+    "toms_storage:*",
+    "woldsvaults:mob_barrier_red",
     "ae2things:*",
     "aeinfinitybooster:*",
     "appmek:*",
@@ -183,6 +185,7 @@
   ],
   "BLOCK_BLACKLIST": [
     "ae2things:*",
+    "crafttweaker:overworld_mob_barrier",
     "appmek:*",
     "decocraft:*",
     "morevaulttables:*",

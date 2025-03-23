@@ -199,7 +199,7 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 3,
+        "min": 2,
         "max": 3
       },
       "pool": [
@@ -220,7 +220,7 @@
       "roll": {
         "type": "uniform",
         "min": 2,
-        "max": 5
+        "max": 3
       },
       "pool": [
         {
@@ -271,8 +271,8 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 7,
-        "max": 7
+        "min": 2,
+        "max": 4
       },
       "pool": [
         {
@@ -420,7 +420,7 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 2,
+        "min": 1,
         "max": 3
       },
       "pool": [
@@ -517,7 +517,7 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 4,
+        "min": 2,
         "max": 4
       },
       "pool": [
@@ -723,12 +723,12 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 2,
-        "max": 3
+        "min": 1,
+        "max": 2
       },
       "pool": [
         {
-          "weight": 32,
+          "weight": 16,
           "item": {
             "id": "the_vault:capstone_dungeon_hunter",
             "count": {
@@ -821,7 +821,7 @@
       "roll": {
         "type": "uniform",
         "min": 1,
-        "max": 2
+        "max": 3
       },
       "pool": [
         {

@@ -61,8 +61,8 @@
       "icon": "the_vault:gui/skills/trinketer"
     },
     "Mystic": {
-      "x": 25,
-      "y": 70,
+      "x": 95,
+      "y": -5,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/mystic"
     },

@@ -150,13 +150,13 @@
       "weight": 10,
       "name": "Elvish Air",
       "effectText": "Removes any and all fall damage",
-      "color": 65280,
+      "color": 3304444,
       "minCraftedUses": 20,
       "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
-        "curiosSlot": "green_trinket"
+        "curiosSlot": "blue_trinket"
       }
     },
     "the_vault:giants_heart": {

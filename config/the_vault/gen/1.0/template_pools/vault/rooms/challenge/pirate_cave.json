@@ -5,7 +5,8 @@
       "template": "the_vault:vault/rooms/challenge/pirate_cave1",
       "palettes": [
         "the_vault:pirate_caves/base",
-        "the_vault:pirate_caves/spawner_settings"
+        "the_vault:pirate_caves/spawner_settings",
+        "the_vault:generic/spawners/challenge_mobs"
       ]
     }
   }

@@ -91,7 +91,6 @@
       "the_vault:gear/armor/villager",
       "the_vault:gear/armor/xnet",
       "the_vault:gear/armor/zombie",
-      "the_vault:gear/armor/iskall_ibe",
       "the_vault:gear/armor/hell_cow",
       "the_vault:gear/armor/stress_flower",
       "the_vault:gear/armor/skallibomba",
@@ -290,7 +289,6 @@
     "OMEGA": [
       "the_vault:gear/wand/master",
       "the_vault:gear/wand/starlight",
-      "the_vault:gear/wand/iskallium",
       "the_vault:gear/wand/bookofshadows"
     ],
     "UNIQUE": [

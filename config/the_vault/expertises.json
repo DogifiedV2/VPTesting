@@ -310,8 +310,7 @@
             "negativeModifierRemovalChance": 0.6,
             "learnPointCost": 1,
             "regretPointCost": 0,
-            "unlockLevel": 0,
-            "minimumPrestige": 1
+            "unlockLevel": 0
           }
         ]
       },

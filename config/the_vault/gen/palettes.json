@@ -1022,6 +1022,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/challenge_xmark_mobs.json"
     },
     {
+      "id": "the_vault:generic/spawners/pirate_mobs",
+      "name": "Pirate Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/pirate_mobs.json"
+    },
+    {
       "id": "the_vault:generic/spawners/challenge_crystal_violet_mobs",
       "name": "Challenge Crystal Violet Mobs",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/challenge_crystal_violet_mobs.json"

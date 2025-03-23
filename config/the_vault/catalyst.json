@@ -13,8 +13,7 @@
               },
               "modifiers": [
                 "the_vault:wooden_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 1
             },
@@ -36,8 +35,7 @@
               },
               "modifiers": [
                 "the_vault:gilded_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 2
             },
@@ -59,8 +57,7 @@
               },
               "modifiers": [
                 "the_vault:ornate_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 4
             },
@@ -82,8 +79,7 @@
               },
               "modifiers": [
                 "the_vault:living_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 3
             },
@@ -105,8 +101,7 @@
               },
               "modifiers": [
                 "the_vault:extended",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 6
             },
@@ -128,8 +123,7 @@
               },
               "modifiers": [
                 "the_vault:xp_gain",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 7
             },
@@ -151,8 +145,7 @@
               },
               "modifiers": [
                 "the_vault:coin_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 5
             },
@@ -174,8 +167,7 @@
               },
               "modifiers": [
                 "the_vault:plentiful",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 8
             },
@@ -197,8 +189,7 @@
               },
               "modifiers": [
                 "the_vault:soul_boost",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 9
             },
@@ -221,8 +212,7 @@
               "model": 10,
               "modifiers": [
                 "the_vault:gilded",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 9.0
@@ -237,8 +227,7 @@
               "model": 11,
               "modifiers": [
                 "the_vault:living",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 9.0
@@ -253,8 +242,7 @@
               "model": 12,
               "modifiers": [
                 "the_vault:ornate",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 9.0
@@ -269,8 +257,7 @@
               "model": 13,
               "modifiers": [
                 "the_vault:coin_pile",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 9.0
@@ -285,8 +272,7 @@
               "model": 14,
               "modifiers": [
                 "the_vault:phoenix",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 9.0
@@ -309,8 +295,7 @@
               },
               "modifiers": [
                 "the_vault:extended",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 25.0
@@ -324,8 +309,7 @@
               },
               "modifiers": [
                 "the_vault:xp_gain",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 7
             },
@@ -340,8 +324,7 @@
               },
               "modifiers": [
                 "the_vault:wooden_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 1
             },
@@ -356,8 +339,7 @@
               },
               "modifiers": [
                 "the_vault:gilded_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 2
             },
@@ -372,8 +354,7 @@
               },
               "modifiers": [
                 "the_vault:living_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 3
             },
@@ -388,8 +369,7 @@
               },
               "modifiers": [
                 "the_vault:ornate_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 4
             },
@@ -404,8 +384,7 @@
               },
               "modifiers": [
                 "the_vault:coin_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 5
             },
@@ -420,8 +399,7 @@
               },
               "modifiers": [
                 "the_vault:plentiful",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 8
             },
@@ -436,8 +414,7 @@
               },
               "modifiers": [
                 "the_vault:soul_boost",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 9
             },
@@ -453,8 +430,7 @@
               "model": 10,
               "modifiers": [
                 "the_vault:gilded",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 3.0
@@ -469,8 +445,7 @@
               "model": 11,
               "modifiers": [
                 "the_vault:living",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 3.0
@@ -485,8 +460,7 @@
               "model": 12,
               "modifiers": [
                 "the_vault:ornate",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 3.0
@@ -501,8 +475,7 @@
               "model": 13,
               "modifiers": [
                 "the_vault:coin_pile",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 3.0
@@ -517,8 +490,7 @@
               "model": 14,
               "modifiers": [
                 "the_vault:phoenix",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 14.0
@@ -541,8 +513,7 @@
               },
               "modifiers": [
                 "the_vault:extended",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 25.0
@@ -556,8 +527,7 @@
               },
               "modifiers": [
                 "the_vault:xp_gain",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 7
             },
@@ -572,8 +542,7 @@
               },
               "modifiers": [
                 "the_vault:wooden_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 1
             },
@@ -588,8 +557,7 @@
               },
               "modifiers": [
                 "the_vault:gilded_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 2
             },
@@ -604,8 +572,7 @@
               },
               "modifiers": [
                 "the_vault:living_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 3
             },
@@ -620,8 +587,7 @@
               },
               "modifiers": [
                 "the_vault:ornate_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 4
             },
@@ -636,8 +602,7 @@
               },
               "modifiers": [
                 "the_vault:coin_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 5
             },
@@ -652,8 +617,7 @@
               },
               "modifiers": [
                 "the_vault:plentiful",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 8
             },
@@ -668,8 +632,7 @@
               },
               "modifiers": [
                 "the_vault:soul_boost",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 9
             },
@@ -685,8 +648,7 @@
               "model": 14,
               "modifiers": [
                 "the_vault:phoenix",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 9.0
@@ -709,8 +671,7 @@
               },
               "modifiers": [
                 "the_vault:extended",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 25.0
@@ -724,8 +685,7 @@
               },
               "modifiers": [
                 "the_vault:xp_gain",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 7
             },
@@ -740,8 +700,7 @@
               },
               "modifiers": [
                 "the_vault:wooden_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 1
             },
@@ -756,8 +715,7 @@
               },
               "modifiers": [
                 "the_vault:gilded_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 2
             },
@@ -772,8 +730,7 @@
               },
               "modifiers": [
                 "the_vault:living_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 3
             },
@@ -788,8 +745,7 @@
               },
               "modifiers": [
                 "the_vault:ornate_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 4
             },
@@ -804,8 +760,7 @@
               },
               "modifiers": [
                 "the_vault:coin_cascade",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 5
             },
@@ -820,8 +775,7 @@
               },
               "modifiers": [
                 "the_vault:plentiful",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 8
             },
@@ -836,8 +790,7 @@
               },
               "modifiers": [
                 "the_vault:soul_boost",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ],
               "model": 9
             },
@@ -853,8 +806,7 @@
               "model": 10,
               "modifiers": [
                 "the_vault:gilded",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 5.0
@@ -869,8 +821,7 @@
               "model": 11,
               "modifiers": [
                 "the_vault:living",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 5.0
@@ -885,8 +836,7 @@
               "model": 12,
               "modifiers": [
                 "the_vault:ornate",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 5.0
@@ -901,8 +851,7 @@
               "model": 13,
               "modifiers": [
                 "the_vault:coin_pile",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 5.0
@@ -917,8 +866,7 @@
               "model": 14,
               "modifiers": [
                 "the_vault:phoenix",
-                "the_vault:challenge_stack",
-                "the_vault:random_negative"
+                "the_vault:challenge_stack"
               ]
             },
             "weight": 14.0

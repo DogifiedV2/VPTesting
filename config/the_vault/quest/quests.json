@@ -4335,7 +4335,7 @@
         ]
       },
       "icon": "the_vault:gui/quests/level65",
-      "targetId": "the_vault:100",
+      "targetId": "the_vault:65",
       "targetProgress": 1.0,
       "unlockedBy": "reach_level_50",
       "reward": {
@@ -4575,7 +4575,7 @@
         ]
       },
       "icon": "the_vault:gui/quests/level90",
-      "targetId": "the_vault:95",
+      "targetId": "the_vault:90",
       "targetProgress": 1.0,
       "unlockedBy": "reach_level_65",
       "reward": {

@@ -3,10 +3,11 @@
   "entityChampionChance": {
     "@the_vault:dungeon": 0.02,
     "@the_vault:tank": 0.02,
-    "@the_vault:horde": 0.01,
+    "@the_vault:horde": -10.0,
     "the_vault:smolcap": -10.0,
     "minecraft:villager": -10.0,
-    "minecraft:chicken": 10.0,
+    "minecraft:chicken": -10.0,
+    "minecraft:armor_stand": -10.0,
     "rottencreatures:flying_scarab": -10.0,
     "minecraft:cod": -10.0,
     "minecraft:salmon": -10.0,

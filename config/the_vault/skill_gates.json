@@ -51,14 +51,6 @@
         "lockedBy": [{ "type": "constant", "id": "Berserking" }],
         "dependsOn": []
       },
-      "Infuser": {
-        "lockedBy": [{ "type": "constant", "id": "Purifier" }],
-        "dependsOn": []
-      },
-      "Purifier": {
-        "lockedBy": [{ "type": "constant", "id": "Infuser" }],
-        "dependsOn": []
-      },
       "Berserking": {
         "lockedBy": [{ "type": "constant", "id": "Last_Stand" }],
         "dependsOn": []

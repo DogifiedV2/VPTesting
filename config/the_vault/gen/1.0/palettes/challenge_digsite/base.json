@@ -9,14 +9,6 @@
       }
     },
     {
-      "type": "weighted_target",
-      "target": "minecraft:sand",
-      "output": {
-        "the_vault:treasure_sand{LootTable:\"the_vault:digsite_sand_lvl0\"}": 50,
-        "minecraft:sand": 100
-      }
-    },
-    {
       "type": "reference",
       "id": "the_vault:generic/room_base"
     },

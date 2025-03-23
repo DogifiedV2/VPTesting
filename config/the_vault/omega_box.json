@@ -2,30 +2,12 @@
   "POOL": [
     {
       "value": {
-        "id": "the_vault:phoenix_feather",
-        "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 4
-      },
-      "weight": 192
-    },
-    {
-      "value": {
-        "id": "the_vault:eye_of_avarice",
-        "nbt": "{}",
-        "amountMin": 2,
-        "amountMax": 3
-      },
-      "weight": 192
-    },
-    {
-      "value": {
         "id": "the_vault:spicy_hearty_burger",
         "nbt": "{}",
         "amountMin": 4,
-        "amountMax": 6
+        "amountMax": 4
       },
-      "weight": 120
+      "weight": 180
     },
     {
       "value": {
@@ -215,15 +197,6 @@
         "amountMax": 4
       },
       "weight": 128
-    },
-    {
-      "value": {
-        "id": "woldvaults:wold_star_chunk",
-        "nbt": "{}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 4
     },
     {
       "value": {

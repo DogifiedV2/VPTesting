@@ -4754,6 +4754,21 @@
           "value": {
             "items": [
               {
+                "item": "minecraft:glow_ink_sac"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 1
+            },
+            "scale": 0.2
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:pufferfish"
               }
             ],
@@ -4809,6 +4824,21 @@
             "scale": 0.0
           },
           "weight": 1
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "minecraft:turtle_egg"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 32
+            },
+            "scale": 0.0
+          },
+          "weight": 2
         },
         {
           "value": {
@@ -7347,6 +7377,21 @@
           "value": {
             "items": [
               {
+                "item": "minecraft:turtle_egg"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 32
+            },
+            "scale": 0.0
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:wither_skeleton_skull"
               }
             ],
@@ -8428,6 +8473,21 @@
             "amount": {
               "min": 1,
               "max": 8
+            },
+            "scale": 0.0
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "minecraft:trident"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 5
             },
             "scale": 0.0
           },
@@ -9940,6 +10000,21 @@
           "value": {
             "items": [
               {
+                "item": "minecraft:turtle_egg"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 32
+            },
+            "scale": 0.0
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
                 "item": "minecraft:wither_skeleton_skull"
               }
             ],
@@ -11021,6 +11096,75 @@
             "amount": {
               "min": 1,
               "max": 8
+            },
+            "scale": 0.0
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "minecraft:trident"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 5
+            },
+            "scale": 0.0
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "minecraft:music_disc_13"
+              },
+              {
+                "item": "minecraft:music_disc_cat"
+              },
+              {
+                "item": "minecraft:music_disc_blocks"
+              },
+              {
+                "item": "minecraft:music_disc_chirp"
+              },
+              {
+                "item": "minecraft:music_disc_far"
+              },
+              {
+                "item": "minecraft:music_disc_mall"
+              },
+              {
+                "item": "minecraft:music_disc_mellohi"
+              },
+              {
+                "item": "minecraft:music_disc_stal"
+              },
+              {
+                "item": "minecraft:music_disc_strad"
+              },
+              {
+                "item": "minecraft:music_disc_ward"
+              },
+              {
+                "item": "minecraft:music_disc_11"
+              },
+              {
+                "item": "minecraft:music_disc_wait"
+              },
+              {
+                "item": "minecraft:music_disc_otherside"
+              },
+              {
+                "item": "minecraft:music_disc_pigstep"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 10
             },
             "scale": 0.0
           },

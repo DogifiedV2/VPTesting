@@ -8,9 +8,9 @@
             "type": "weighted_target",
             "target": "minecraft:lime_glazed_terracotta",
             "output": {
-              "minecraft:netherite_block": 2,
-              "the_vault:vault_diamond_block": 5,
-              "minecraft:shroomlight": 10,
+              "minecraft:netherite_block": 1,
+              "the_vault:vault_diamond_block": 3,
+              "minecraft:shroomlight": 15,
               "minecraft:ancient_debris": 15
             }
           },
@@ -19,8 +19,8 @@
             "type": "weighted_target",
             "target": "minecraft:lime_glazed_terracotta",
             "output": {
-              "minecraft:netherite_block": 2,
-              "the_vault:vault_diamond_block": 5,
+              "minecraft:netherite_block": 1,
+              "the_vault:vault_diamond_block": 3,
               "minecraft:shroomlight": 10,
               "minecraft:ancient_debris": 15
             }
@@ -30,8 +30,8 @@
             "type": "weighted_target",
             "target": "minecraft:lime_glazed_terracotta",
             "output": {
-              "minecraft:netherite_block": 2,
-              "the_vault:vault_diamond_block": 5,
+              "minecraft:netherite_block": 1,
+              "the_vault:vault_diamond_block": 3,
               "minecraft:shroomlight": 10,
               "minecraft:ancient_debris": 15
             }
@@ -41,8 +41,8 @@
             "type": "weighted_target",
             "target": "minecraft:lime_glazed_terracotta",
             "output": {
-              "minecraft:netherite_block": 2,
-              "the_vault:vault_diamond_block": 5,
+              "minecraft:netherite_block": 1,
+              "the_vault:vault_diamond_block": 3,
               "minecraft:shroomlight": 10,
               "minecraft:ancient_debris": 15
             }
