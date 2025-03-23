@@ -1,5 +1,9 @@
 [
       {
+        "weight": 300,
+        "reference": "the_vault:vault/rooms/challenge/pirate_cave"
+      },
+      {
         "weight": 10,
         "reference": "the_vault:vault/rooms/challenge/crystal_caves"
       },

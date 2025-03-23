@@ -6,6 +6,16 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/empty.json"
     },
     {
+      "id": "the_vault:vault/rooms/chaos/challenge/pirate_cave",
+      "name": "Chaos Pirate Cave",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/challenge/pirate_cave.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/pirate_cave",
+      "name": "Pirate Cave",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/pirate_cave.json"
+    },
+    {
       "id": "the_vault:vault/starts/wendarr_starts_normal",
       "name": "Wendarr Starts",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/wendarr_starts_normal.json"
@@ -169,11 +179,6 @@
       "id": "the_vault:vault/rooms/nonparadox/tenos/omega/iskallian_garden",
       "name": "Tenos iskallian_garden",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/tenos/omega/iskallian_garden.json"
-    },
-    {
-      "id": "the_vault:vault/rooms/nonparadox/tenos/omega/the_common_room",
-      "name": "Tenos Common Room",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/tenos/omega/the_common_room.json"
     },
     {
       "id": "the_vault:vault/rooms/nonparadox/velara/omega/iskallian_garden",
@@ -2611,7 +2616,7 @@
       "id": "the_vault:vault/rooms/season_fall_common_rooms",
       "name": "Fall Common Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/season_fall_common_rooms.json"
-    },
+    }, 
     {
       "id": "the_vault:vault/rooms/season_winter_common_rooms",
       "name": "Winter Common Rooms",

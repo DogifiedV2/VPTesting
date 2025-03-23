@@ -1449,6 +1449,14 @@ file = "config/the_vault/gen/1.0/palettes/chaos/x-mark/ornate_chest_placeholder.
 hash = "2cf9704f132e5fad5fae4347c68da10510d2b34ee08a614098c00a4823df61b9"
 
 [[files]]
+file = "config/the_vault/gen/1.0/palettes/chaos/x-mark/redstone_spawner.json"
+hash = "13e7ea2245e57c78432632a88d75d0e120c63fb9c5bb4675b74b86bf2b31bbd4"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/chaos/x-mark/trap_spawners.json"
+hash = "43a404c360e77019940afd5e823ee19dfa73823714990fd1c955f62d7f78d5e3"
+
+[[files]]
 file = "config/the_vault/gen/1.0/palettes/cove/base.json"
 hash = "e344afa44098ae911f25cabaebc2c86bf13148ccf12893ab99e1a8aea985816e"
 
@@ -2619,6 +2627,14 @@ hash = "0ee3e46f5145e09589359d3c84a0df0ddaba92fe5440ea81dfe43bb017b254a8"
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/paradox/x-mark/wendarr.json"
 hash = "96449a2d8b2fdd9980eed2c2649631117fa629b323c70aad45851ea22cb0b925"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/pirate_caves/base.json"
+hash = "0a6eef4ccd7605396021766519b1ca127f1274cc8420ab7f548b5fd97e7a6d06"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/pirate_caves/spawner_settings.json"
+hash = "74b01d34b3e9a294e71705bff84414f35cb36a276a1a065cbf0b2994f7030896"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raid/base.json"
@@ -8309,6 +8325,10 @@ file = "config/the_vault/gen/1.0/structures/vault/rooms/challenge/laboratory2.nb
 hash = "1a67d31c5ebd50545657727bc3f6cb267b632f14a0f5175c7d99228b6f505d56"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/rooms/challenge/pirate_cave1.nbt"
+hash = "25530f03ef7f668e6bdbf591daca863eb9c18825e2b5a81d64fccd1844f6fb3e"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/challenge/raid1.nbt"
 hash = "11b2d11c4a7d615e86f44b58426807283e3ce91f91546cc6b9e2acf97b208e39"
 
@@ -10057,6 +10077,10 @@ file = "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/laboratory
 hash = "7eeb5f88cf5fd996aaf92cd5111aaf4299097bab6a673101d3ca85fd275e27bc"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/pirate_cave.json"
+hash = "049c78323394952047867ebc160e61b0ca2702500fdf242c5cca61ab94ce9b09"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/raid/base_objective_easter_rooms.json"
 hash = "d5150978dae7d7e2e517a266cb0d2c8c956f81321d3c36e5c4a64820fa422b1d"
 
@@ -10102,19 +10126,19 @@ hash = "e75e05dfac2ab3ad5e1a8c791bdfcb96767d9e1a1f2d3e4efe2980027bfd78be"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge_rooms.json"
-hash = "4473241683954a3bdbf02a3241a141f4b8844c3d95683b9debe2c69818137475"
+hash = "dc1da9635656d846aef24f67734d0bfb7c51f4c8e411bc4a9e969476dbbeee53"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge_rooms_blood.json"
-hash = "f952df88f7a41f5ff6cc6d470bfc8cfc951c75ae39ff56c9605259b3d4770b38"
+hash = "8e777a211c61a68900cf6119ceffd6d87f4af5cd16b8b2ea55d64a3b8f3eb47c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge_rooms_nether.json"
-hash = "a4384c38de62b0d1e5da0d6540502699ca6a6f54c0d436f39cd6387bca125b2a"
+hash = "19897e0b5ff808432ee7954f7723a1e5c6e87174e3d4231c3223a75399dd3c02"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge_rooms_void.json"
-hash = "8c32e975e455ad2d8509e966119715333e68ed7da7759946128eadcd4f8e7f7f"
+hash = "b80d1ac329351a1e2078bcc35f26fd500d4bb8df89cd270078650c750cdc3e1f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/aurora_cave_common_rooms.json"
@@ -10147,6 +10171,10 @@ hash = "95f89cda4357b3f5b1b1170666211c1fbb4a0dad944c02e0fc5d675b4bdf45a0"
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/cave_wasteland_common_rooms.json"
 hash = "81e0c903da114cb8531066fc86e26a23f6a0def7822fbbab2b3fdf69bdd20f8d"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/challenge/pirate_cave.json"
+hash = "6433a4be7a46b83de06bbbdedd5a0584b3104fe324abea8719c1bb108f8086f0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/challenge/village.json"
@@ -12586,19 +12614,19 @@ hash = "f636c11801ea5945ff198083954372054e79d8ad060cf00a404b97d1f37dc5f3"
 
 [[files]]
 file = "config/the_vault/gen/loot_tables.json"
-hash = "da9d66ce69d2f6a593db793323d834d28b070ef8e79ccf9e5438114cd61710c6"
+hash = "8bff4e5a3e43149f8fb47eaba8aaafcb0f41af2700421858c15761261c514f56"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "3aaf8e4268fa4d1c3fc3e386c797fa9341c5de15383ce0c221e117a6a03d8650"
+hash = "5a41e28a115611da00a82a28ad481e2b0d00f63244f67ea69f7764804574f32d"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "6861fb014abc9a93f24c4c371023ab621b0e9531f844dcd06e53fcfaf031cce0"
+hash = "3ce796ae1acdc38e35bc860aea36bb8574930a02a411ba277c5df9fdbf55fd70"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "d0d58e338855e386439cffc8ebd6194857c069a9d56f95aef0f038927af903f5"
+hash = "acbece0c26cf6e86cc8367263ece1752da9bce6c0247a0aa1c50000f083ac131"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
