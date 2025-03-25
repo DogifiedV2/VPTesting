@@ -14209,6 +14209,10 @@ file = "mods/AEInfinityBooster-1.18.2-1.1.0+9.jar"
 hash = "d28c99fc2e2762fadf30cd015e82a7ebf3358a51f510037ea86865dcafb9f547"
 
 [[files]]
+file = "mods/AdvancementPlaques-1.18.2-1.4.5.1.jar"
+hash = "d2d937229a6c21f08c9cd705d88c4ff7c369781f68851d3e7ef19646070fede9"
+
+[[files]]
 file = "mods/AkashicTome-1.5-20.jar"
 hash = "156c495d55c312522ca51e46db272dbfba209d0c2fc70c95466d1cd487859f92"
 
