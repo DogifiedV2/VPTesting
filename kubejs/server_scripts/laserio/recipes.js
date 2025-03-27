@@ -109,7 +109,7 @@ onEvent("recipes", event => {
         ], {
         R: 'minecraft:redstone_block',
         L: 'the_vault:perfect_larimar',
-        Q: 'minecraft:redstone_dust',
+        Q: 'minecraft:redstone',
         N: 'the_vault:chromatic_iron_ingot',
         C: 'laserio:logic_chip'
     })
