@@ -13186,7 +13186,7 @@ hash = "5db862dd368737805d3cd2e5e7979d78d7baad633d682078520054d562a87463"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "a43c5470f56e04ba69f3df093ee6b151383ea19f5e3e1bd512fefab10287fbaa"
+hash = "26a0f78de098c61772b8d28cee563ccaa62caed4db7d67b21c367a8419fcda5c"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
