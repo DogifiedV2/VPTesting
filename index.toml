@@ -14457,16 +14457,8 @@ file = "kubejs/data/wolds_vaults/advancements/currency/vault_palladium.json"
 hash = "ca4a38b43939d2a622065f8b3b091f4c04f5cc59cd05b616386e929097974732"
 
 [[files]]
-file = "kubejs/data/wolds_vaults/advancements/dimension_teleporters/mining_dimension.json"
-hash = "2872769d8cc7f5f617cc8b285ad83d88bee1d96bdbd3fbb256a018bccb36e3da"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/dimension_teleporters/void_dimension.json"
-hash = "7417f4d9837b1736742d54fedb6ad5d461ec649c8d285bfe6164dba7b83c21f9"
-
-[[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/altar_recatalyzer.json"
-hash = "a365622adef07272555b16bd56d46c3e3873f2deebdb3f787b74a0f587ab738b"
+hash = "56080546dce14fafce9b7d6e0023862cfef394ba85a31171c35ee587890d26a5"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/arcane_essence.json"
@@ -14478,7 +14470,7 @@ hash = "9be5ff1a4384a1ddbb41718710d2120b9166d94a2ece6f8a496bd4283dc913f0"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/augment_box.json"
-hash = "b2e362a1a128201bab0df25095e33412dfa986fb5124afda47a84d9c75e8fc10"
+hash = "4299775d5aec23c7e392532c5c993cbbd6e0a32431627661408d7844fd09d375"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/capstone_all_seeing_eye.json"
@@ -14498,39 +14490,27 @@ hash = "e8192d80c4daa39bf0d95a7f0d712c99405f50b4748b15a38067fb10012f7bb9"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_doomsayer.json"
-hash = "28932714d8767e7ea8fc66b441660113c34a4b2970880371e80c49ddfc2593a5"
+hash = "e2f8fba80db7a84662a5e44baefcdf3a90b3b386502549682ae42be74d2024b5"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_enchanter.json"
-hash = "6dc63d3700a73045d50f5058249740f259cc7697504154a3967b8b6e07fdd530"
+hash = "3b997419fed91c70f31983959b1ffb3f8e51fbd572b25961b9ccb51d18900d9c"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_spirits.json"
-hash = "b0ce8b53ca508591737a7331a01d24e79436254b63f782ba480afbb8be9e1833"
+hash = "101414a3de64a8a727b996de6929479d203f96e8b62373a536f79ab4f0da0295"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_titan.json"
-hash = "0915b2f8fac67790ac34e08f540dafc573838c42d1a72c63455202a784bcb019"
+hash = "f527a7640bae1a063fc12c4a4ded0d1906e0cdf878351770d56e97929c5ad9bb"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/crystal_seal_unhinged.json"
-hash = "cfc67ecfaf813328b306cd6121214a31adde42175297e5fd1acbaa3fff4a8d09"
+hash = "f880c71a1e37098eaef19b735d035e83f8b3f0693c13058a9721b1dcdc7326e1"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/echo_pog_1.json"
 hash = "a9c2f9c33a6291688f82333a3757605e0d71b927fa5e7977eb79361dee675621"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/echoing_seed_base.json"
-hash = "56d55d11a5a5f72713f6b357627dc6bd9d2526c7e12b8a60eb63298abac8001b"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/enigma_egg.json"
-hash = "519f12e5838da93cf4d4f62bd692e891c8478b6416b20f017da6ac9fe2d07649"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/expertise_orb.json"
-hash = "c1404182cb5c1725f8e5126e36ca1f6f56e1e539490f3a85a42133a0aa5551a4"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/extrordinary_pog_prism.json"
@@ -14543,10 +14523,6 @@ hash = "b2e73de92833586ec04cf238221774e74fe03b594925d0778b51869aa14bfa85"
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/gem_pog_1.json"
 hash = "90a5f221ab1f1758a2962b98b91949e7079ad26a6a86c66e49d31ae199193158"
-
-[[files]]
-file = "kubejs/data/wolds_vaults/advancements/items/inception_upgrade.json"
-hash = "679bf58f678017a616a3791582dd212cf1beaa5648eaf4131fe264a420c342f7"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/inscription_box.json"
@@ -14570,7 +14546,7 @@ hash = "586032b4dac2a4f641cb9d713b1824d2816918df5464be63ff8eebfe0d685cf3"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/pog_prism.json"
-hash = "6342ea92f3d6ae5ba915fc36781f4ce6209d0b9e080481dd6251e10cb8f0a390"
+hash = "9d2809066cfc94205c7dd9603d0b51d60a0aa5624561844a6e87b7685ea1b801"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/prismatic_angel_ring.json"
@@ -14594,11 +14570,11 @@ hash = "bfe562fe4ab68775771b142016d57f41700bff1e2ff9d5bf90ea6e10a5337a02"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/vault_salvager.json"
-hash = "9d62dc9f5d92e0b7067a8e0e4147a2020e6ae60b024aa9a7d8b947fadfb4ae5a"
+hash = "809a67e81d0b31b8b375dfc45a076e9e6148fbeb3451bdb9fb6046210559c825"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/wold_star.json"
-hash = "11fcab8d3b5156403cd67cb8da19b7d2af4a612d34b21cbdc3e215629b986a3f"
+hash = "25668889040e03c92ea96162cf9d2b2cef578bce4f270ee4cd621569d5172697"
 
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/items/wold_star_chunk.json"
@@ -14607,18 +14583,6 @@ hash = "43a458a6b4d0a1478add82170f643c50100cab4e8f0e062daeec7b9c7acecb30"
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/time_in_a_bottle/time_in_a_bottle.json"
 hash = "6c28a37ceb02cd127ad5eec9af88341001109e388cd6cb00a0097c2c693017f4"
-
-[[files]]
-file = "kubejs/server_scripts/ars_nouveau/enchanter.js"
-hash = "fec7965199478e2d9d03c02400aafe907e8f20aa965c59d94b83f68962b44360"
-
-[[files]]
-file = "kubejs/server_scripts/ars_nouveau/glyphs.js"
-hash = "94950f1b05aed981cac9e827200cdcfe6735cd0115f8887548793f65f862a1a5"
-
-[[files]]
-file = "kubejs/server_scripts/ars_nouveau/recipes.js"
-hash = "7fb92bcb31d33e758ef655797f65b6ad22a05e04bb138907a873ab758c9c8c2f"
 
 [[files]]
 file = "kubejs/server_scripts/botanical_machinery/recipes.js"
@@ -15119,14 +15083,6 @@ hash = "dbadee4fac7a091d804481188586ee973113e9a7cb5651258bbeeb95b06e56ed"
 [[files]]
 file = "mods/armourersworkshop-forge-1.18.2-3.1.5-beta.jar"
 hash = "bbd998a3a63ed5e904dcf382f0c2f4f37f60203688bcf609941ac1a36a164daa"
-
-[[files]]
-file = "mods/ars_creo-1.18.2-2.2.0.jar"
-hash = "e43362ec4c401f43707e625e24d11a61ddd7acd265bca86b897ad8e37d7d05bb"
-
-[[files]]
-file = "mods/ars_nouveau-1.18.2-2.9.0.jar"
-hash = "35aa0b3ecb218e3355d99d7302bf3f633b982f9072b39abcdb0fc176ebeecdff"
 
 [[files]]
 file = "mods/auudio_forge_1.0.3_MC_1.18-1.18.2.jar"
