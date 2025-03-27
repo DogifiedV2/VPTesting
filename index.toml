@@ -5,6 +5,298 @@ file = "config/Advancedperipherals/world.toml"
 hash = "ef177ec5fe29a3bf58bf51ec2fdede4a8564a527cc63f0ca129fd2038390796b"
 
 [[files]]
+file = "config/ars_nouveau/accelerate.toml"
+hash = "3cd14e1294040fbb821a13a5eab04e7e3c363e93eb99ed0957100f49f9a17e68"
+
+[[files]]
+file = "config/ars_nouveau/amplify.toml"
+hash = "78a5cef219e7cfca16dd676b52b28b88b0e678baa8d2ca4389a660f2b6692d05"
+
+[[files]]
+file = "config/ars_nouveau/aoe.toml"
+hash = "9863caa4a9f3a3df7e589871d75686cbcb96251ad8811e5e5b1f856403eac637"
+
+[[files]]
+file = "config/ars_nouveau/aquatic.toml"
+hash = "a02a618bd679bb8249e41befb87040b1e8b07dcf80dc0655302ea0b6e6cc7b6e"
+
+[[files]]
+file = "config/ars_nouveau/blink.toml"
+hash = "0fbed27d62e4fd925eb50fe24b531087daad126be20d206570fe9092691c108b"
+
+[[files]]
+file = "config/ars_nouveau/bounce.toml"
+hash = "839c02db35d0023c9e18a85c5536b6c6d971d3ae9348eb8e8ab04f7e38c31660"
+
+[[files]]
+file = "config/ars_nouveau/break.toml"
+hash = "3d7212eff59f5812011dc72bff9d650950897dd4094d1bffd6829c2c28e6b2c4"
+
+[[files]]
+file = "config/ars_nouveau/cold_snap.toml"
+hash = "fd1f316d56bf545647b496a6519d2d7887e6f230991e1b612c2f9057d995c83d"
+
+[[files]]
+file = "config/ars_nouveau/conjure_water.toml"
+hash = "bb9939e3d7d715636aacdcd75051240ebd36e58e847051fd21f84dbc65c1bfe2"
+
+[[files]]
+file = "config/ars_nouveau/craft.toml"
+hash = "49b4754d07a9e3d5c3b65d59464290dbd7875ebf8771b614556fdc6cce149658"
+
+[[files]]
+file = "config/ars_nouveau/crush.toml"
+hash = "181ad0da7c3859b20d47438b5ac6fe58275b9b292ebb6fb9d6258460a3b6d702"
+
+[[files]]
+file = "config/ars_nouveau/cut.toml"
+hash = "aa20e98f98ab44c98057b0486f14be1bf4abd0b4c6a94b94e94b340590b916cd"
+
+[[files]]
+file = "config/ars_nouveau/dampen.toml"
+hash = "27b883e5d29ebde244fc46bb5a7e461a4dfab330f86e5c052de312648c503ee2"
+
+[[files]]
+file = "config/ars_nouveau/decelerate.toml"
+hash = "d5f5f3667c2b3831c5189950802b062acf84431667aa8033eefb395a0d577d87"
+
+[[files]]
+file = "config/ars_nouveau/delay.toml"
+hash = "a66f39565bc0836d446e51233a3fabd29add08cc54d158d3c97979ad5c1452de"
+
+[[files]]
+file = "config/ars_nouveau/dispel.toml"
+hash = "159580e2fa889d28a15c475689f8cfb7ff2006414f4a79143c785d61b55e784a"
+
+[[files]]
+file = "config/ars_nouveau/duration_down.toml"
+hash = "f738a93ea5d1b7f00a820075dd84f9f298cd1b80d063a02c7c3910231c4695cb"
+
+[[files]]
+file = "config/ars_nouveau/ender_inventory.toml"
+hash = "49b4754d07a9e3d5c3b65d59464290dbd7875ebf8771b614556fdc6cce149658"
+
+[[files]]
+file = "config/ars_nouveau/evaporate.toml"
+hash = "49b4754d07a9e3d5c3b65d59464290dbd7875ebf8771b614556fdc6cce149658"
+
+[[files]]
+file = "config/ars_nouveau/exchange.toml"
+hash = "49b4754d07a9e3d5c3b65d59464290dbd7875ebf8771b614556fdc6cce149658"
+
+[[files]]
+file = "config/ars_nouveau/explosion.toml"
+hash = "b16074c253f2fe48b6643967dae471dc40ef2d0f02e6e9c4c158f47f633d0fbd"
+
+[[files]]
+file = "config/ars_nouveau/extend_time.toml"
+hash = "3cd14e1294040fbb821a13a5eab04e7e3c363e93eb99ed0957100f49f9a17e68"
+
+[[files]]
+file = "config/ars_nouveau/extract.toml"
+hash = "7bfdeed890266b65ff9dc6c88da1738aa56cba95f1e826d0368749956c49419b"
+
+[[files]]
+file = "config/ars_nouveau/fangs.toml"
+hash = "3de5d00eaff6495c2111690983290f86481e85c94e94d5ab009949e1f9d14a40"
+
+[[files]]
+file = "config/ars_nouveau/fell.toml"
+hash = "4e392b8383b3ced6014967ed7c83f5915955c39ff9da37cc61cbf50047b60c89"
+
+[[files]]
+file = "config/ars_nouveau/firework.toml"
+hash = "49b4754d07a9e3d5c3b65d59464290dbd7875ebf8771b614556fdc6cce149658"
+
+[[files]]
+file = "config/ars_nouveau/flare.toml"
+hash = "2c93bca30e4be6bace2a15dd348190b2c2d181a513412f29b95901e4bce713f0"
+
+[[files]]
+file = "config/ars_nouveau/fortune.toml"
+hash = "71bb1127d763c90634dd90f37910ac34500624e673c5aee7f4dcc86e37afc082"
+
+[[files]]
+file = "config/ars_nouveau/freeze.toml"
+hash = "0d2c53ea5e17663ced2fb480951f663cdce90f6e3cdd46c3a10c430fff2c92eb"
+
+[[files]]
+file = "config/ars_nouveau/glide.toml"
+hash = "150d363fdb8da03182de37b6073c07e795123c467682cb8f5b4ef86c5dbb72b5"
+
+[[files]]
+file = "config/ars_nouveau/gravity.toml"
+hash = "ab842c2883641f11477ba67c5d50539fd285b1e35e67470c40aba933061fd893"
+
+[[files]]
+file = "config/ars_nouveau/grow.toml"
+hash = "15abfb2678527b1b089a48f095d083ac2faef58f8c1af9d7cb78d30c01a5d3da"
+
+[[files]]
+file = "config/ars_nouveau/gust.toml"
+hash = "7efb26870f95e1522b61370f049dc47ec9272e3ff5545b39922d3dbde1c2fb5f"
+
+[[files]]
+file = "config/ars_nouveau/harm.toml"
+hash = "6c70f031a9a5f7ce18fbda7490d3ab7d2155aec114066c9de2b64ea4d6c23517"
+
+[[files]]
+file = "config/ars_nouveau/harvest.toml"
+hash = "fb7fb4061372ec70d7302acc511409d90137441305579c7ef089114d35145701"
+
+[[files]]
+file = "config/ars_nouveau/heal.toml"
+hash = "82d335dc9c3a5147b9380b71ee9922b6cf9ffaf73755ac169d5d364d233e5ba6"
+
+[[files]]
+file = "config/ars_nouveau/hex.toml"
+hash = "5b4926f2a77c78785e1bf6205995c23a340e271e09ed78093470c7c15770ed3f"
+
+[[files]]
+file = "config/ars_nouveau/ignite.toml"
+hash = "ce80a5fd9a5ff9578dae76639cad5b792b9caa51f2b7bd6d6bb35bd1241936f6"
+
+[[files]]
+file = "config/ars_nouveau/intangible.toml"
+hash = "331ff09ac2c83538c2e57a9b6e0abac95040e88dfdccb1f90120262b5cbb2c89"
+
+[[files]]
+file = "config/ars_nouveau/interact.toml"
+hash = "fb7fb4061372ec70d7302acc511409d90137441305579c7ef089114d35145701"
+
+[[files]]
+file = "config/ars_nouveau/invisibility.toml"
+hash = "628c47b1d737f4fc9e88d8504738bad306cd8d28808dfaf9fc78b720306cdd8c"
+
+[[files]]
+file = "config/ars_nouveau/launch.toml"
+hash = "612e3811cb0397a0e0481719c4aa5bae64f3adf41f1832d889854e574456fcd6"
+
+[[files]]
+file = "config/ars_nouveau/leap.toml"
+hash = "9d6efe16905e8b9fe5b0c53ef21b625c36eb62a5fc0e0ef9d625df0f20b38588"
+
+[[files]]
+file = "config/ars_nouveau/light.toml"
+hash = "8fd3b8e9cef608a28d96de4220471198149f790c617d605dea4358a74b5dee43"
+
+[[files]]
+file = "config/ars_nouveau/lightning.toml"
+hash = "a6ae5ae11402a5de516c9160ea42c33f2ae44c724f6c7789d8046cec366d9d4b"
+
+[[files]]
+file = "config/ars_nouveau/linger.toml"
+hash = "765eb0845b08d10fae48ddd8357d4140fdbc00bf89b9db62022ff8184a2c80c5"
+
+[[files]]
+file = "config/ars_nouveau/name.toml"
+hash = "598693e340d38bf8c9877b39cc11226ccf53a026123acd5411864f0f4d461e1f"
+
+[[files]]
+file = "config/ars_nouveau/orbit.toml"
+hash = "49b4754d07a9e3d5c3b65d59464290dbd7875ebf8771b614556fdc6cce149658"
+
+[[files]]
+file = "config/ars_nouveau/phantom_block.toml"
+hash = "e4f5ffffa7cb826bfcfd34f824eb4924024c46a5785cdf9474bdf680387c8d0d"
+
+[[files]]
+file = "config/ars_nouveau/pickup.toml"
+hash = "fb7fb4061372ec70d7302acc511409d90137441305579c7ef089114d35145701"
+
+[[files]]
+file = "config/ars_nouveau/pierce.toml"
+hash = "5d8b420943c1d6b58687be749227defd7a22807c73ccd4fac8857662412eb8b2"
+
+[[files]]
+file = "config/ars_nouveau/place_block.toml"
+hash = "fb7fb4061372ec70d7302acc511409d90137441305579c7ef089114d35145701"
+
+[[files]]
+file = "config/ars_nouveau/projectile.toml"
+hash = "1b77f454e4204bda2ec230701736794020d9d2673ca1e4e0c66b334056bf04e9"
+
+[[files]]
+file = "config/ars_nouveau/pull.toml"
+hash = "ec899d8390c38f21b955f3ee18fdfab300ed526282d30bab150eddd7b983b0f7"
+
+[[files]]
+file = "config/ars_nouveau/redstone_signal.toml"
+hash = "236b99a9f840c712dc6990b9472fa55077385ae2aea2c3a64f14332f7da64340"
+
+[[files]]
+file = "config/ars_nouveau/rune.toml"
+hash = "159580e2fa889d28a15c475689f8cfb7ff2006414f4a79143c785d61b55e784a"
+
+[[files]]
+file = "config/ars_nouveau/self.toml"
+hash = "7f98cdffa42ae61a07ae88b19e7219046d2836936e72deae77ea49b050da1b47"
+
+[[files]]
+file = "config/ars_nouveau/sense_magic.toml"
+hash = "230b088ee153dab3c3f8f020c4f1e414f056a77d753bd8993ed0158b32a5ebfc"
+
+[[files]]
+file = "config/ars_nouveau/sensitive.toml"
+hash = "3cd14e1294040fbb821a13a5eab04e7e3c363e93eb99ed0957100f49f9a17e68"
+
+[[files]]
+file = "config/ars_nouveau/slowfall.toml"
+hash = "628c47b1d737f4fc9e88d8504738bad306cd8d28808dfaf9fc78b720306cdd8c"
+
+[[files]]
+file = "config/ars_nouveau/smelt.toml"
+hash = "8ee4bc3f331c03de0ffc4c43497c7b3971c7d97343792bcf0a43311456026e50"
+
+[[files]]
+file = "config/ars_nouveau/snare.toml"
+hash = "5c9dad19c9bee35ba65fd05d8d78ea20455363b0ac8ba6550773ac80fb1c83bd"
+
+[[files]]
+file = "config/ars_nouveau/split.toml"
+hash = "78a5cef219e7cfca16dd676b52b28b88b0e678baa8d2ca4389a660f2b6692d05"
+
+[[files]]
+file = "config/ars_nouveau/summon_decoy.toml"
+hash = "9859867d7929d0c1a250e529ccfc45336bcb46effca5f2b7692033443de290cd"
+
+[[files]]
+file = "config/ars_nouveau/summon_steed.toml"
+hash = "39055870c01b3f5232c82a5ae22f8f69df1573c15722afd216ce6ef9f2b41766"
+
+[[files]]
+file = "config/ars_nouveau/summon_undead.toml"
+hash = "f94d7b97fb84907b24f207f2a11e27bf60fea8c6275c6e7f216408315220710e"
+
+[[files]]
+file = "config/ars_nouveau/summon_vex.toml"
+hash = "f94d7b97fb84907b24f207f2a11e27bf60fea8c6275c6e7f216408315220710e"
+
+[[files]]
+file = "config/ars_nouveau/summon_wolves.toml"
+hash = "5552dd5c463661bb54d8ff36540c969a6de62b97ab09204f355d165b569606a6"
+
+[[files]]
+file = "config/ars_nouveau/toss.toml"
+hash = "fb7fb4061372ec70d7302acc511409d90137441305579c7ef089114d35145701"
+
+[[files]]
+file = "config/ars_nouveau/touch.toml"
+hash = "ea67fbff602b6fc3e6f396612d8370229af8249c9e1f4377371a93233a23d1c4"
+
+[[files]]
+file = "config/ars_nouveau/underfoot.toml"
+hash = "a10c7f3cbe33f7fbcd914ae9d760b5ece5717c5623bb471da33dae8ca613bad7"
+
+[[files]]
+file = "config/ars_nouveau/wind_shear.toml"
+hash = "fdacb99b01c4c2a6b6b95c08e08d2c1b7227b23b271e0d85dcbd1969b8bdb945"
+
+[[files]]
+file = "config/ars_nouveau/wither.toml"
+hash = "5b4926f2a77c78785e1bf6205995c23a340e271e09ed78093470c7c15770ed3f"
+
+[[files]]
 file = "config/logprot-common.toml"
 hash = "478549ee20b1a2a5e95845a483914903ea66cccb4b3abb67e48d9896975687f7"
 
@@ -14345,6 +14637,18 @@ file = "kubejs/data/wolds_vaults/advancements/time_in_a_bottle/time_in_a_bottle.
 hash = "6c28a37ceb02cd127ad5eec9af88341001109e388cd6cb00a0097c2c693017f4"
 
 [[files]]
+file = "kubejs/server_scripts/ars_nouveau/enchanter.js"
+hash = "fec7965199478e2d9d03c02400aafe907e8f20aa965c59d94b83f68962b44360"
+
+[[files]]
+file = "kubejs/server_scripts/ars_nouveau/glyphs.js"
+hash = "94950f1b05aed981cac9e827200cdcfe6735cd0115f8887548793f65f862a1a5"
+
+[[files]]
+file = "kubejs/server_scripts/ars_nouveau/recipes.js"
+hash = "1e69d57c59ed7eb9836effa52f2d2176c21c8afdd9701c5a30d67f11f5b3a6fa"
+
+[[files]]
 file = "kubejs/server_scripts/botanical_machinery/recipes.js"
 hash = "45bb350133d3322d0c91f50a696eb76e401ed9a3dd3ccf2764f4f882a22be996"
 
@@ -14358,7 +14662,7 @@ hash = "593f6e35769a98b1ca04f8dbf64c30c91bcc431d3f4bfc1e5eeeca22fd78d292"
 
 [[files]]
 file = "kubejs/server_scripts/hostileneuralnetworks/recipes.js"
-hash = "df6122f5b26906e627997e41e2c79f4784cf2e32806d0038f540486e3df0de3f"
+hash = "e57a7bb36446ef5c8ccf5e3fe3216737978fa50f5691163a237d4d7cc536efb9"
 
 [[files]]
 file = "kubejs/server_scripts/laserio/recipes.js"
@@ -14843,6 +15147,14 @@ hash = "dbadee4fac7a091d804481188586ee973113e9a7cb5651258bbeeb95b06e56ed"
 [[files]]
 file = "mods/armourersworkshop-forge-1.18.2-3.1.5-beta.jar"
 hash = "bbd998a3a63ed5e904dcf382f0c2f4f37f60203688bcf609941ac1a36a164daa"
+
+[[files]]
+file = "mods/ars_creo-1.18.2-2.2.0.jar"
+hash = "e43362ec4c401f43707e625e24d11a61ddd7acd265bca86b897ad8e37d7d05bb"
+
+[[files]]
+file = "mods/ars_nouveau-1.18.2-2.9.0.jar"
+hash = "35aa0b3ecb218e3355d99d7302bf3f633b982f9072b39abcdb0fc176ebeecdff"
 
 [[files]]
 file = "mods/auudio_forge_1.0.3_MC_1.18-1.18.2.jar"

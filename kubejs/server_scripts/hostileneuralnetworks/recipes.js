@@ -82,7 +82,7 @@ onEvent("recipes", event => {
         P: 'the_vault:perfect_larimar',
         R: 'the_vault:carbon',
         X: 'the_vault:vault_essence',
-        I: 'the_vault:chromatic_gold_ingot',
+        I: 'woldsvaults:chromatic_gold_ingot',
         T: 'minecraft:smooth_stone'
     })
 
@@ -96,7 +96,7 @@ onEvent("recipes", event => {
         G: '#forge:glass_panes',
         P: 'the_vault:extraordinary_larimar',
         O: 'minecraft:obsidian',
-        L: 'the_vault:wutodic_silver_block',
+        L: 'the_vault:vault_diamond_block',
         R: 'minecraft:comparator'
     })
 
@@ -109,7 +109,7 @@ onEvent("recipes", event => {
         G: 'the_vault:extraordinary_black_opal',
         P: 'the_vault:vault_diamond_block',
         O: 'minecraft:obsidian',
-        L: 'the_vault:chromatic_gold_block',
+        L: 'woldsvaults:chromatic_gold_block',
         R: 'minecraft:comparator'
     })
 
@@ -297,146 +297,7 @@ onEvent("recipes", event => {
         })
     })
 
-    cloudStorageMobTypes.forEach(mob => {
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:cloudstorage/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `cloudstorage:spawn_egg_${mob}`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{id:"hostilenetworks:cloudstorage/${mob}"}}`)
-        })
-
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:cloudstorage/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `cloudstorage:spawn_egg_${mob}`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:cloudstorage/${mob}"}}`)
-        })
-
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:cloudstorage/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `cloudstorage:spawn_egg_${mob}`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:cloudstorage/${mob}"}}`)
-        })
-
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:1254,id:"hostilenetworks:cloudstorage/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `cloudstorage:spawn_egg_${mob}`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:cloudstorage/${mob}"}}`)
-        })
-    })
-
-    tropicraftMobTypes.forEach(mob => {
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:tropicraft/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `tropicraft:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{id:"hostilenetworks:tropicraft/${mob}"}}`)
-        })
-
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:tropicraft/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `tropicraft:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:tropicraft/${mob}"}}`)
-        })
-
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:tropicraft/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `tropicraft:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:tropicraft/${mob}"}}`)
-        })
-
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:1254,id:"hostilenetworks:tropicraft/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `tropicraft:${mob}_spawn_egg`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:tropicraft/${mob}"}}`)
-        })
-    })
-
-
-    alexsMobsTypes.forEach(mob => {
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:alexsmobs/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `alexsmobs:spawn_egg_${mob}`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{id:"hostilenetworks:alexsmobs/${mob}"}}`)
-        })
-
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:alexsmobs/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `alexsmobs:spawn_egg_${mob}`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:6,id:"hostilenetworks:alexsmobs/${mob}"}}`)
-        })
-
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:alexsmobs/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `alexsmobs:spawn_egg_${mob}`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:54,id:"hostilenetworks:alexsmobs/${mob}"}}`)
-        })
-
-        event.shaped(Item.of('hostilenetworks:data_model', `{data_model:{data:1254,id:"hostilenetworks:alexsmobs/${mob}"}}`),
-            [
-                ' E ',
-                'ZMZ',
-                ' Z '
-            ], {
-            Z: 'the_vault:vault_essence',
-            E: `alexsmobs:spawn_egg_${mob}`,
-            M: Item.of('hostilenetworks:data_model', `{data_model:{data:354,id:"hostilenetworks:alexsmobs/${mob}"}}`)
-        })
-    })
-
-    event.shapeless('16x hostilenetworks:empty_prediction', ['4x #forge:glass_panes', 'minecraft:lapis_lazuli', 'the_vault:chromatic_iron_ingot'])
+    event.shapeless('16x hostilenetworks:empty_prediction', ['4x #forge:glass_panes', 'minecraft:lapis_lazuli', 'woldsvaults:chromatic_iron_ingot'])
 
 
 
