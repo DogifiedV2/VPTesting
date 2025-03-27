@@ -13633,18 +13633,6 @@ file = "kubejs/data/hostilenetworks/data_models/pufferfish.json"
 hash = "5639a2c27daf28fa6054ba4a4001836d727eba8b343f886bf0a222559cb2af73"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/quark/frog.json"
-hash = "7eda5a6a068584150b827eb9c5883ed47fe3f612f69421a346f68a6b1be0eb13"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/quark/toretoise.json"
-hash = "4d9383255817d0e415a9b7e0bf684cead21cb3b288d75a1059fc3630553317d7"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/quark/wraith.json"
-hash = "2cc770d937c5d4b85769130b5d00aeeb1c5c598e4299c462850b694b5b7f8720"
-
-[[files]]
 file = "kubejs/data/hostilenetworks/data_models/rabbit.json"
 hash = "60e9ce4ebd15fd6958bc92197fc8f7031a7c56f1b6b02e45ae1f83652e6f7f78"
 
@@ -13669,24 +13657,8 @@ file = "kubejs/data/hostilenetworks/data_models/squid.json"
 hash = "10f54ab1aa169e35ebbd7a9a21dc2c432206e4aa9933730bed1a5ea75a925732"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/thermal/basalz.json"
-hash = "c4a52674c0f23971bc80db4ad611969156bf23884378c3f9201aee80bc281965"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/thermal/blitz.json"
-hash = "2e994868c1546929b7a44c5163fade85fd718cddf7916488afa1bc88e2594dee"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/thermal/blizz.json"
-hash = "fa3a86a178e17ad0c3e4dd620f6aa2113628b3bbbc4396c507a77ccd3a78edc8"
-
-[[files]]
 file = "kubejs/data/hostilenetworks/data_models/tropical_fish.json"
 hash = "9189c21b7ccd98b72d01d136f76ce7b3198b1eac541a0dfea1339d1c4305c00c"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/tropicraft/iguana.json"
-hash = "38c0b87c262d630bf77c1ec63e4c2b8b80e466c6f2d2d59e38b0231354b93adb"
 
 [[files]]
 file = "kubejs/data/izzy_vault/advancements/blocks/alchemy_archive.json"
@@ -14646,7 +14618,7 @@ hash = "94950f1b05aed981cac9e827200cdcfe6735cd0115f8887548793f65f862a1a5"
 
 [[files]]
 file = "kubejs/server_scripts/ars_nouveau/recipes.js"
-hash = "1e69d57c59ed7eb9836effa52f2d2176c21c8afdd9701c5a30d67f11f5b3a6fa"
+hash = "de0cc1581e979efe3e2505356d3f3649047da2785df307b84ea39e71c829722a"
 
 [[files]]
 file = "kubejs/server_scripts/botanical_machinery/recipes.js"
@@ -14662,7 +14634,7 @@ hash = "593f6e35769a98b1ca04f8dbf64c30c91bcc431d3f4bfc1e5eeeca22fd78d292"
 
 [[files]]
 file = "kubejs/server_scripts/hostileneuralnetworks/recipes.js"
-hash = "e57a7bb36446ef5c8ccf5e3fe3216737978fa50f5691163a237d4d7cc536efb9"
+hash = "be606038621ff4d381af91072ce88149d75c1d3d1c76fdd460554f5b8ed85a5f"
 
 [[files]]
 file = "kubejs/server_scripts/laserio/recipes.js"
