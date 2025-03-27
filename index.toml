@@ -14485,6 +14485,10 @@ file = "mods/JustEnoughResources-1.18.2-0.14.1.171.jar"
 hash = "9ff633f1240d4846b210be497525caa3bc5184173be9c37d0cfb955d7bbf7204"
 
 [[files]]
+file = "mods/LibX-1.18.2-3.2.19.jar"
+hash = "70677e254a44e2e14b0c849a5252d41fa127b4018a040769187260fdbf86e0e7"
+
+[[files]]
 file = "mods/LuckPerms-Forge-5.4.26.jar"
 hash = "728d9774a60b4d431839ec646f2be5d122f4101320600c576a8c9abbc2e20d07"
 
