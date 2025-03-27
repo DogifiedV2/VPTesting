@@ -316,7 +316,7 @@ onEvent("recipes", event => {
             'IPI',
             'BBB'
         ], {
-        R: 'the_vault:pog_prism',
+        R: 'woldsvaults:pog_prism',
         I: 'botanicalextramachinery:malachite_ingot',
         B: 'botanicalextramachinery:malachite_dragonstone_block',
         P: 'botania:orechid'
@@ -328,7 +328,7 @@ onEvent("recipes", event => {
             'IPI',
             'BBB'
         ], {
-        R: 'the_vault:pog_prism',
+        R: 'woldsvaults:pog_prism',
         I: 'botanicalextramachinery:saffron_ingot',
         B: 'botanicalextramachinery:saffron_dragonstone_block',
         P: 'botanicalextramachinery:base_orechid'
@@ -366,7 +366,7 @@ onEvent("recipes", event => {
         ], {
         B: 'botanicalextramachinery:crimson_dragonstone_block',
         P: 'botanicalextramachinery:ultimate_mana_pool',
-        W: 'the_vault:wold_star'
+        W: 'woldsvaults:wold_star'
     }).id('botanicalextramachinery:catalyst_mana_infinity')
 
 

@@ -13289,6 +13289,114 @@ file = "kubejs/data/computercraft/recipes/wired_modem.json"
 hash = "41738e35cec1ffbdd5fc771ffb10fa0525cd3042b6e284b0a818815776a009c7"
 
 [[files]]
+file = "kubejs/data/hostilenetworks/data_models/bee.json"
+hash = "f8aa5b50382b973a1e9bd6db8ec8239b028fc0e934bf22ba0e39080b3062ec0c"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/chicken.json"
+hash = "354a304fb9150927484db200f0929faf4c8d008b2f3239a2f39e8a58bc6f1c04"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/cod.json"
+hash = "19b9ffdfa412f07f11b0316a4e376bb73c17b1e1102bb550fae4fb064fa7ca4f"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/cow.json"
+hash = "815d8c8e498be69546d6e0efa32d02e725076c79f7349e590e1fc9bd3b8fc73c"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/dolphin.json"
+hash = "cbebd3fbe9bd4886a19adbf8dc8d8d1c4a15a791ef0393655b241c8f7db501de"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/drowned.json"
+hash = "1f3fe36c1c8d0b2021a2e947a472715d86a0f248c62c5c64788a83e2f1e78622"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/glow_squid.json"
+hash = "8d653279d3de18840c10d67f7064ca5c0b60498455fad13fcdd86f102f93d329"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/hoglin.json"
+hash = "4ed457445e3496a576171ca6cfa03a9d86d0cea0b4d7b0a455123165647471fd"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/iron_golem.json"
+hash = "7602b8d7370ab52b15c17d58eda098e3d55692b77f642be308512c384894fc04"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/mooshroom.json"
+hash = "d2ee3a83d9436ac5231ac1c695b9cee4d00951dfe4a7bf3be783d87d4ab35c28"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/pig.json"
+hash = "03c81b2a8fec60ac1428741f8e3debdabe02dde354b4552d6f21182cfe976060"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/polar_bear.json"
+hash = "d3a234af7d200a98efbcaa35f37c199b5dc932e65f0dc8d5570a5ef6f02001c1"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/pufferfish.json"
+hash = "5639a2c27daf28fa6054ba4a4001836d727eba8b343f886bf0a222559cb2af73"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/quark/frog.json"
+hash = "7eda5a6a068584150b827eb9c5883ed47fe3f612f69421a346f68a6b1be0eb13"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/quark/toretoise.json"
+hash = "4d9383255817d0e415a9b7e0bf684cead21cb3b288d75a1059fc3630553317d7"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/quark/wraith.json"
+hash = "2cc770d937c5d4b85769130b5d00aeeb1c5c598e4299c462850b694b5b7f8720"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/rabbit.json"
+hash = "60e9ce4ebd15fd6958bc92197fc8f7031a7c56f1b6b02e45ae1f83652e6f7f78"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/ravager.json"
+hash = "778e75c5c25ee3f543acce1f5b28ae6c35f71160163e0c8c9ed96bf5b80c8bbb"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/salmon.json"
+hash = "d4c578e0d3686dbc2f8b2377ed11edcfd212462c37f124e08ffd50c195c45131"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/sheep.json"
+hash = "9a1379c5302ba331b988848cbe19dba3b21889233e879d6de21c7f00d3063ecf"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/shulker.json"
+hash = "cd95cc2598f56ecf115bcd5f8a32e56f2c434058e6a0532054a43c60318c2a22"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/squid.json"
+hash = "10f54ab1aa169e35ebbd7a9a21dc2c432206e4aa9933730bed1a5ea75a925732"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/thermal/basalz.json"
+hash = "c4a52674c0f23971bc80db4ad611969156bf23884378c3f9201aee80bc281965"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/thermal/blitz.json"
+hash = "2e994868c1546929b7a44c5163fade85fd718cddf7916488afa1bc88e2594dee"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/thermal/blizz.json"
+hash = "fa3a86a178e17ad0c3e4dd620f6aa2113628b3bbbc4396c507a77ccd3a78edc8"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/tropical_fish.json"
+hash = "9189c21b7ccd98b72d01d136f76ce7b3198b1eac541a0dfea1339d1c4305c00c"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/tropicraft/iguana.json"
+hash = "38c0b87c262d630bf77c1ec63e4c2b8b80e466c6f2d2d59e38b0231354b93adb"
+
+[[files]]
 file = "kubejs/data/izzy_vault/advancements/blocks/alchemy_archive.json"
 hash = "dec2e286936f967fec25c9b819218b12c5e39cc4f05ba70a2679f006b8789f43"
 
@@ -14242,11 +14350,15 @@ hash = "45bb350133d3322d0c91f50a696eb76e401ed9a3dd3ccf2764f4f882a22be996"
 
 [[files]]
 file = "kubejs/server_scripts/botanicalextramachinery/recipes.js"
-hash = "aa60fe850e373312f151e1f082cbd68cde169126fe8a91a114e8b1d66d2456ed"
+hash = "264d71b9ebfbd547354f8cf7d3ccf3965510d4f7f87febccbdb55e886473c3f2"
 
 [[files]]
 file = "kubejs/server_scripts/computercraft/recipes.js"
 hash = "593f6e35769a98b1ca04f8dbf64c30c91bcc431d3f4bfc1e5eeeca22fd78d292"
+
+[[files]]
+file = "kubejs/server_scripts/hostileneuralnetworks/recipes.js"
+hash = "df6122f5b26906e627997e41e2c79f4784cf2e32806d0038f540486e3df0de3f"
 
 [[files]]
 file = "kubejs/server_scripts/laserio/recipes.js"
@@ -14435,6 +14547,10 @@ hash = "1e22a0924ebdea09e4d0a378676cdb33f3b5aa8436d665f2d2556bf2ded375cf"
 [[files]]
 file = "mods/Highlighter-1.18.1-1.1.2.jar"
 hash = "4585cf7dc45b38e10ddb202067f91767cc04b78c56e6ecc2ca25c8679ddea124"
+
+[[files]]
+file = "mods/HostileNeuralNetworks-1.18.2-3.0.9.jar"
+hash = "9dcdaf218c8ad806a41fade38d9e5f0ec4d15c9e5c4eecac038358b837d3c2b9"
 
 [[files]]
 file = "mods/Iceberg-1.18.2-forge-1.0.49.jar"
