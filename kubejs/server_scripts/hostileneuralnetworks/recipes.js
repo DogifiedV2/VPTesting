@@ -205,7 +205,7 @@ onEvent("recipes", event => {
         })
     })
 
-    event.shapeless('16x hostilenetworks:empty_prediction', ['4x #forge:glass_panes', 'minecraft:lapis_lazuli', 'woldsvaults:chromatic_iron_ingot'])
+    event.shapeless('16x hostilenetworks:empty_prediction', ['4x #forge:glass_panes', 'minecraft:lapis_lazuli', 'the_vault:chromatic_iron_ingot'])
 
 
 

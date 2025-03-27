@@ -100,7 +100,7 @@ onEvent("recipes", event => {
             'LGL'
         ], {
         L: 'the_vault:perfect_larimar',
-        D: 'the_vault:chromatic_gold_ingot',
+        D: 'woldsvaults:chromatic_gold_ingot',
         W: 'minecraft:lava_bucket',
         G: 'ars_nouveau:source_gem'
     }).id('ars_nouveau:volcanic_sourcelink')

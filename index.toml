@@ -14618,7 +14618,7 @@ hash = "94950f1b05aed981cac9e827200cdcfe6735cd0115f8887548793f65f862a1a5"
 
 [[files]]
 file = "kubejs/server_scripts/ars_nouveau/recipes.js"
-hash = "de0cc1581e979efe3e2505356d3f3649047da2785df307b84ea39e71c829722a"
+hash = "7fb92bcb31d33e758ef655797f65b6ad22a05e04bb138907a873ab758c9c8c2f"
 
 [[files]]
 file = "kubejs/server_scripts/botanical_machinery/recipes.js"
@@ -14634,7 +14634,7 @@ hash = "593f6e35769a98b1ca04f8dbf64c30c91bcc431d3f4bfc1e5eeeca22fd78d292"
 
 [[files]]
 file = "kubejs/server_scripts/hostileneuralnetworks/recipes.js"
-hash = "be606038621ff4d381af91072ce88149d75c1d3d1c76fdd460554f5b8ed85a5f"
+hash = "50f369faffe40e0b9010ce53bf0b1a9277a2738b4707faa675fac27fcae30788"
 
 [[files]]
 file = "kubejs/server_scripts/laserio/recipes.js"
