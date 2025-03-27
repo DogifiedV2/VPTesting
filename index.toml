@@ -13249,6 +13249,42 @@ file = "config/the_vault/wild_spawner.json"
 hash = "56ac1d60c0b4316eab28bf3c5be6a7dc6a7898b00dbb4971297ca7bc876f1e30"
 
 [[files]]
+file = "kubejs/data/ccvault/loot_tables/blocks/vault_reader.json"
+hash = "4b553c52b03e25b8afbd577ed33a10441887ad97c34ed5c0935feb07da825e20"
+
+[[files]]
+file = "kubejs/data/ccvault/recipes/vault_reader.json"
+hash = "07fd8ecf923acfd4f7d6fe4e28f923aa9cac773257849d81ccb895a94b8fa458"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/computer_advanced.json"
+hash = "62e71ea5a2645728fa1b66f2788b99f7ddf1861b24a004af0437bcfa42d8c306"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/computer_advanced_upgrade.json"
+hash = "31da05079d8ba811271c1f015a3c5afbb63e2d2050a3c994d07fafb911a99c1f"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/computer_normal.json"
+hash = "3854d3c4bfe0ce71c2b3c8ab80f846ff892be158b0214999b4c9082c872dd65f"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/pocket_computer_advanced.json"
+hash = "a669af9d5ac132feb23de212b579f4cdb8d5dd51b09ee7b1f4ed32cfa6ed1c1b"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/pocket_computer_advanced_upgrade.json"
+hash = "e3c6299d7442d400894d7e44cda8b8c355ab4d31591a3ba2c69b3b6469339f64"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/pocket_computer_normal.json"
+hash = "d83dba86e768a5e104c3556bbff91de803ae85103063b8770a8e6cc4fb221662"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/wired_modem.json"
+hash = "41738e35cec1ffbdd5fc771ffb10fa0525cd3042b6e284b0a818815776a009c7"
+
+[[files]]
 file = "kubejs/data/izzy_vault/advancements/blocks/alchemy_archive.json"
 hash = "dec2e286936f967fec25c9b819218b12c5e39cc4f05ba70a2679f006b8789f43"
 
@@ -14195,6 +14231,10 @@ hash = "43a458a6b4d0a1478add82170f643c50100cab4e8f0e062daeec7b9c7acecb30"
 [[files]]
 file = "kubejs/data/wolds_vaults/advancements/time_in_a_bottle/time_in_a_bottle.json"
 hash = "6c28a37ceb02cd127ad5eec9af88341001109e388cd6cb00a0097c2c693017f4"
+
+[[files]]
+file = "kubejs/server_scripts/computercraft/recipes.js"
+hash = "593f6e35769a98b1ca04f8dbf64c30c91bcc431d3f4bfc1e5eeeca22fd78d292"
 
 [[files]]
 file = "mods/AE2-Things-1.0.5.jar"
