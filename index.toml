@@ -13178,19 +13178,19 @@ hash = "2a1038d281899a169f5d53abe8a2bd0b37cae654dee74ec5f788f77477ce5ab5"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "ec63d40d9cf6509127bc1878eb4afbce201f481ed629d087b415e2c36dcf332e"
+hash = "086ad5063b5c5a5c891bcc9a7de1ff84c23b9f69f8a5ab1332c92667421b0c8b"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "7fbe858d00399e458e0d95c65677588874ac0250efa867f16abfa822ad8b2741"
+hash = "5db862dd368737805d3cd2e5e7979d78d7baad633d682078520054d562a87463"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "f53129f51fb7c4f3ef38b5a82e092a7d9c2e7266fdb9ba4ee54883cca98313ba"
+hash = "a43c5470f56e04ba69f3df093ee6b151383ea19f5e3e1bd512fefab10287fbaa"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "a48d3308680b8c59d89abeb610753d92dd939d681fe94b2fbe57c69eb64e4409"
+hash = "e5f582e321594e8913d18333f719b6db17858d270e2f6c1bb1e4262af9ab12f5"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -13222,7 +13222,7 @@ hash = "79a6fb926829fb43a577a901042b5a0ce7dce35e1bf62605dc26c6e2e82a10dc"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "bb18006accb4372ed67c135f6279d8b26e70f8c97f11c4838c309a70dda968a2"
+hash = "48da87c6e1904cec18f1a5edda41afa69e61f11816e9c86367caebf2aa2c80fa"
 
 [[files]]
 file = "config/the_vault/skill_gates_original.json"
