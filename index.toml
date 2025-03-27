@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "ef177ec5fe29a3bf58bf51ec2fdede4a8564a527cc63f0ca129fd2038390796b"
+
+[[files]]
 file = "config/logprot-common.toml"
 hash = "478549ee20b1a2a5e95845a483914903ea66cccb4b3abb67e48d9896975687f7"
 
@@ -14237,6 +14241,10 @@ file = "kubejs/server_scripts/computercraft/recipes.js"
 hash = "593f6e35769a98b1ca04f8dbf64c30c91bcc431d3f4bfc1e5eeeca22fd78d292"
 
 [[files]]
+file = "kubejs/server_scripts/laserio/recipes.js"
+hash = "8e4450457712235c6b464d5a837491f04fdb4d82b72ec585069fc02190e0759a"
+
+[[files]]
 file = "mods/AE2-Things-1.0.5.jar"
 hash = "3e399b74cd34597b08324e839030e4e693a4181500c7ca3b98ae72e90660fd0a"
 
@@ -14247,6 +14255,10 @@ hash = "a910d3d55b24eb14c4f4be6798547d46e80a13999c7b76af7ab24ad3a46c9432"
 [[files]]
 file = "mods/AEInfinityBooster-1.18.2-1.1.0+9.jar"
 hash = "d28c99fc2e2762fadf30cd015e82a7ebf3358a51f510037ea86865dcafb9f547"
+
+[[files]]
+file = "mods/AdvancedPeripherals-1.18.2-0.7.31r.jar"
+hash = "9e32fd56605faa471763eecf68aa2f66ec9a1a732180e2aacbc6579243dc5125"
 
 [[files]]
 file = "mods/AdvancementPlaques-1.18.2-1.4.5.1.jar"
@@ -14757,6 +14769,14 @@ file = "mods/canary-mc1.18.2-0.3.3.jar"
 hash = "34f3cf34b4c976bbca5b342a982461edd9f7a63b45302ff26fd86ac08679cbdb"
 
 [[files]]
+file = "mods/cc-tweaked-1.18.2-1.101.3.jar"
+hash = "9426fda1c9373a2317aa9f377185301ad2474d3536073c3177eba4b8b71d74ee"
+
+[[files]]
+file = "mods/ccvault-1.1.5-3.15.jar"
+hash = "efecb4ce65aead895bf78781aa47112131d4d0cfb8ce4043120369a2f5f7f300"
+
+[[files]]
 file = "mods/cfm-7.0.0-pre35-1.18.2.jar"
 hash = "48d55a12e01d5d2de970b4be4f3eea188202f8a95058c8bb47b50f12d61661b2"
 
@@ -14959,6 +14979,10 @@ hash = "a42d10a97afd3313af57ecc88f531fffb048d89b2aa2fd01c586d67c161fdcca"
 [[files]]
 file = "mods/kubejs-forge-1802.5.5-build.569.jar"
 hash = "a3fdde9433d75ac1f5ae72d3f5b74d2dfb3a59d8b28bad18a5c526cb32f814d0"
+
+[[files]]
+file = "mods/laserio-1.4.5.jar"
+hash = "5eecb26dfcb6ec5593c39770942643b154f4e9406a54313bd97ec0d21d548121"
 
 [[files]]
 file = "mods/lazydfu-1.0-1.18+.jar"
