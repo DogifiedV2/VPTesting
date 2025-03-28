@@ -682,7 +682,7 @@ hash = "b6410d9fcb9baaa78c4d4497dfd4a1e5afa305ddccbeb8aa6310280f5e1b2264"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/jewel.json"
-hash = "28ecf28235719f6349a990bac1b9ca0da60a0fda35388f93446c91f1d8918360"
+hash = "3522daef88f5c255f47cbc99b1ca2cb6259545f005346ace29ca5edb9dad1012"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/leggings.json"
@@ -714,7 +714,7 @@ hash = "fa47837829802844b9f3f10194d2294b94527ffdd6be2f60a5dbf10ef407ce33"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "4e06c05af71207a7b7f40a8543f033a115e5e66f27873a9ea17b8d5b09ecb396"
+hash = "3f7b8dff9a66143c2bd0d01365f842404a321e21132c682a3d50bc50e0e02d4e"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -1366,7 +1366,7 @@ hash = "9d8be1e5eaa358e270ea7d1ce531eed3afa24261c08bb320949139bf27abe381"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
-hash = "04e8efb80c7c90d8f48434b78c29c35b87ff4560259385d075494036eb04a0e7"
+hash = "96fe0cf05edccfe82a444d3764507a5f68cf8cce748cf933949c52c2fb6fb9af"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_stand_50.json"
@@ -13186,7 +13186,7 @@ hash = "5db862dd368737805d3cd2e5e7979d78d7baad633d682078520054d562a87463"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "26a0f78de098c61772b8d28cee563ccaa62caed4db7d67b21c367a8419fcda5c"
+hash = "585f8c0cd60a29062cc327dd1d02f979d5b6a933e0e0ccaeaabd0b48a49fc831"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
@@ -13218,7 +13218,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "79a6fb926829fb43a577a901042b5a0ce7dce35e1bf62605dc26c6e2e82a10dc"
+hash = "8c800e5bb9168f67dbf5238f4d545c154fbd5b3e30c5cb9b1b0331a3ae03c043"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -13334,7 +13334,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "5ddddbb6a4ede61c478cb4ba36ebce76daa9f0b0f200bad482c96f28ddf647fa"
+hash = "e0c8d7f09cdbb7476e3f8b246b34e90f2ca19daae08efe949a114c40084c4610"
 
 [[files]]
 file = "config/the_vault/unknown_egg.json"
@@ -13543,6 +13543,22 @@ hash = "fda8ab7a706c72a6e662b236ee54105b9b1df3a8fc0bd0963f57f87f92fc9848"
 [[files]]
 file = "config/the_vault/wild_spawner.json"
 hash = "56ac1d60c0b4316eab28bf3c5be6a7dc6a7898b00dbb4971297ca7bc876f1e30"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/magnets/bloody_magnet.png"
+hash = "543a8618cbaa92f454bcb31077f09206a95d0b3975ba86d9c4fb8508b8f76ef4"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/magnets/ender_magnet.png"
+hash = "07e020c17e85701b2cdde4104d84f40fe0efbe9c68ffa2d79e0ccd00ae2c1ae6"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/magnets/heart_magnet.png"
+hash = "3167a48d8af2ebf831ab73997f95d6ed23915cc7868c36bdabc760340a578b02"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/magnets/treasure_magnet.png"
+hash = "eb5a73563f42b546dc845b8afa23dc646508a1e3eba76c3a156adabb23ba65d8"
 
 [[files]]
 file = "kubejs/data/ccvault/loot_tables/blocks/vault_reader.json"
@@ -14449,6 +14465,10 @@ file = "kubejs/data/izzy_vault/functions/initialize.mcfunction"
 hash = "71cea2fab8640946e8ffda60264ba8fb0137aa1597beb12b3ee319373dbc02e7"
 
 [[files]]
+file = "kubejs/data/the_vault/recipes/flask_colossus.json"
+hash = "403daa88cc28229ed88dc081a3c4f2ca045a7afa0f3f7d8fbc40e43ba079a69b"
+
+[[files]]
 file = "kubejs/data/wolds_vaults/advancements/currency/vault_iridium.json"
 hash = "3ed369bc42990adad93d80b61de21139ed2d74473242bb190f2ab70c94c930b4"
 
@@ -14598,7 +14618,7 @@ hash = "593f6e35769a98b1ca04f8dbf64c30c91bcc431d3f4bfc1e5eeeca22fd78d292"
 
 [[files]]
 file = "kubejs/server_scripts/hostileneuralnetworks/recipes.js"
-hash = "50f369faffe40e0b9010ce53bf0b1a9277a2738b4707faa675fac27fcae30788"
+hash = "bda6b4d2e3db77971406e3f73230320e41755f88295ce54c6b2d52c47be1e557"
 
 [[files]]
 file = "kubejs/server_scripts/laserio/recipes.js"

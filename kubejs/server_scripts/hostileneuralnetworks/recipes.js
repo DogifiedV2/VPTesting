@@ -73,18 +73,31 @@ onEvent("recipes", event => {
     //     T: '#forge:glass_panes'
     // })
 
-    event.shaped(Item.of('hostilenetworks:blank_data_model'),
+    event.shaped(Item.of('create:creative_blaze_cake'),
         [
-            'PRP',
-            'XTX',
-            'PIP'
+            'PIP',
+            'RTR',
+            'PXP'
         ], {
-        P: 'the_vault:perfect_larimar',
-        R: 'the_vault:carbon',
-        X: 'the_vault:vault_essence',
-        I: 'woldsvaults:chromatic_gold_ingot',
-        T: 'minecraft:smooth_stone'
+        P: 'the_vault:packed_vault_meat_block',
+        R: 'the_vault:echo_pog',
+        X: 'woldsvaults:wold_star',
+        I: 'woldsvaults:compressed_vault_diamond_block',
+        T: 'create:blaze_cake'
     })
+
+    event.shaped(Item.of('hostilenetworks:blank_data_model'),
+    [
+        'PRP',
+        'XTX',
+        'PIP'
+    ], {
+    P: 'the_vault:perfect_larimar',
+    R: 'the_vault:carbon',
+    X: 'the_vault:vault_essence',
+    I: 'woldsvaults:chromatic_gold_ingot',
+    T: 'minecraft:smooth_stone'
+})
 
     event.shaped(Item.of('hostilenetworks:sim_chamber'),
         [
