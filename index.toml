@@ -2034,7 +2034,7 @@ hash = "115edd27bbe164c25b769dd7ba6808e1f5abab9736b029b8e45daa763a03d62a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/treasure_door_placeholder.json"
-hash = "4c31687e3cbcc135e095eadc9df16fffec0da407602fef3c547165cf4d2b8ef5"
+hash = "59bb2222ffcd06a5bc649696daa04d6885436fd3747eb1b34bb439ff9b599e50"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/vendor_pedestal_placeholder.json"
@@ -2871,6 +2871,14 @@ hash = "73d432501ed462e7e2c47ccbfbeb45c4fd8dbc9412e70ba3bee1d7cd01becd41"
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/the_common_room/ore_placeholder.json"
 hash = "b031a16c745287b048f69caa1e28f3122aead3fb96fbbbb8e1736c7739e664c7"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/treasure_rooms/echo_rooms.json"
+hash = "03ddb535e4d050a2f3911e8968611c85ed6eb496a541058b21872bc555d0c98f"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/treasure_rooms/echo_treasure_chest.json"
+hash = "b392bbe1b9a044e5ee71079d29a27c9d18effa1d4d17a87514f3978101d96ed0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/treasure_rooms/festive_treasure_rooms.json"
@@ -8717,6 +8725,10 @@ file = "config/the_vault/gen/1.0/structures/vault/starts/wendarr_start.nbt"
 hash = "8d98fea0250a51f9acb0c69177b908a47d9553c4eaabd2535336a9008c07b2a2"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/echo.nbt"
+hash = "d525c17a9d12e2e14528b2f967f504f13af36bdbfea0db679b79e5ac7a840c8b"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1.nbt"
 hash = "024d49c1e71133add931e09956b4bc437ca02d7e25ad9b046834a44eb4cc7305"
 
@@ -11999,6 +12011,10 @@ hash = "83132a3bd7e27f61decb03f8751bb5c3b1cf0e8e20c95898e786e9f83a39170c"
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/starts/white_starts.json"
 hash = "aa795ed16e5f22f6193de85c5cc670d1e0e63bf69d37223bebeb988ce5f50779"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/echo_room.json"
+hash = "838176b1e3a38d9dd04c42bcfe5328cbc50029b9129cb330cd55dbaae03f839e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/treasure_rooms.json"
